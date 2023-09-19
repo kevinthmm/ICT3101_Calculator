@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{145D0F08-9401-4ED7-82DA-DEDEC71CCB76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICT3101_Calculator/Calculator.cs">
+    <Files>
+      <File FileName="ICT3101_Calculator/Program.cs" />
+      <File FileName="ICT3101_Calculator/Calculator.cs" Line="61" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICT3101_Calculator" expanded="True">
+            <Node name="ICT3101_Calculator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+            <Node name="ICT3101_Calculator.UnitTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ICT3101__Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
