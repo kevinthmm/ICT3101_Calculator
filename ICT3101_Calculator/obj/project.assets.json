@@ -6545,11 +6545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator/ICT3101_Calculator.csproj",
+      "projectUniqueName": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator/ICT3101_Calculator.csproj",
       "projectName": "ICT3101_Calculator",
-      "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator/ICT3101_Calculator.csproj",
+      "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator/ICT3101_Calculator.csproj",
       "packagesPath": "/Users/kevinthom/.nuget/packages/",
-      "outputPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator/obj/",
+      "outputPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevinthom/.nuget/NuGet/NuGet.Config"

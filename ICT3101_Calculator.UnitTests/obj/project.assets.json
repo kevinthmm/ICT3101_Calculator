@@ -6572,11 +6572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj",
+      "projectUniqueName": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj",
       "projectName": "ICT3101_Calculator.UnitTests",
-      "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj",
+      "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj",
       "packagesPath": "/Users/kevinthom/.nuget/packages/",
-      "outputPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator.UnitTests/obj/",
+      "outputPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevinthom/.nuget/NuGet/NuGet.Config"
@@ -6591,8 +6591,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator/ICT3101_Calculator.csproj": {
-              "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab 3/ICT3101_Calculator/ICT3101_Calculator.csproj"
+            "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator/ICT3101_Calculator.csproj": {
+              "projectPath": "/Users/kevinthom/Downloads/SIT/Past Sem/Y3_Tri1/ICT 3101 - Software Verification and Validation/Labs/Lab 3/ICT3101_Calculator_Lab_3/ICT3101_Calculator/ICT3101_Calculator.csproj"
             }
           }
         }
