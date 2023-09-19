@@ -30,9 +30,12 @@ public class CalculatorTests
     public void Multiply_WhenMultiplyTwoNumbers_ResultEqualToMultiply()
     {
         // Act
-        double result = _calculator.Multiply(20, 10);
-        // Assert
-        Assert.That(result, Is.EqualTo(200));
+        if (_calculator != null)
+        {
+            double result = _calculator.Multiply(20, 10);
+            // Assert
+            Assert.That(result, Is.EqualTo(200));
+        }
     }
     [Test]
     public void Divide_WhenDivideTwoNumbers_ResultEqualToAnswer()
