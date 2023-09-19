@@ -14,7 +14,7 @@ jobs:
     runs-on: windows-latest
     defaults:
       run:
-        working-directory: ./ICT3101_Calculator_Lab_3/
+        working-directory: \
 
     env:
       Solution_Name: ICT3101_Calculator
