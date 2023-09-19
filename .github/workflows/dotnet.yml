@@ -1,0 +1,42 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: .NET
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: ./ICT3101_Calculator_Lab 3/
+
+    env:
+      Solution_Name: ICT3101_Calculator
+      NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/
+      SpecFlow_Test_Project_Path: SpecFlowCalculatorTests/
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '6.0' # Specify the .NET version you need
+
+    - name: Build the project
+      run: dotnet build
+
+    - name: NUnit Tests
+      working-directory: ${{ env.NUnit_Test_Project_Path }}
+      run: dotnet test --no-build --verbosity normal
+
+    - name: SpecFlow Tests
+      working-directory: ${{ env.SpecFlow_Test_Project_Path }}
+      run: dotnet test --no-build --verbosity normal
